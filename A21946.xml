@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation inhibiting the sovving of vvoad</title>
+            <title>Proclamations. 1600-03-28</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21946</idno>
+            <idno type="STC">STC 8274</idno>
+            <idno type="STC">ESTC S121821</idno>
+            <idno type="EEBO-CITATION">99856983</idno>
+            <idno type="PROQUEST">99856983</idno>
+            <idno type="VID">22640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22640)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:122)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation inhibiting the sovving of vvoad</title>
+                  <title>Proclamations. 1600-03-28</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Richmond the eight and twentieth day of March 1600. in the two and fourtieth yeere of her Maiesties most gracious raigne.</note>
+                  <note>Steele notation: com- and two.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Woad (Plant) --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:22640:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">¶ A Proclamation inhibiting the ſowing of Woad.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Queenes moſt excellent Maieſtie vnderſtanding heretofore by com<g ref="char:EOLhyphen"/>plaint of ſundry of her good Subiects vſing Clothing, Cillage and Dairies, (things neceſſary to be maintained in her Realme for the common good of her lo<g ref="char:EOLhyphen"/>uing Subiects aboue any new deuiſe) that there was an vniuerſall attempt of breaking and tilling of very fertile grounds to ſo we Woad, vpon a priuate and in<g ref="char:EOLhyphen"/>ordinate gaine practiſed, to the manifeſt grieſe of her people in diuers places where the ſame was then vſed, without all good order, meaſure, or moderation, did by her Highneſſe Proclamation by aduice of her Counſell publiſhed, ſtraightly forbid and inhivite vpon grieuous paines, that no maner of perſon ſhould breake vp, or cauſe to be broken vp, any maner of ground, of what nature ſoeuer it were, for the vſe or purpoſe to ſowe or plant Woad in, nor that any perſon ſhould co<g ref="char:cmbAbbrStroke">̄</g>tinue any ground already broken vp for that purpoſe to the vſe of Woad, but in ſuch ſort and orber, as in, and by the ſaid Proclamation is expreſſed. Sithence which time it hath folowed, that partly by the remiſneſſe of the Iuſtices of Peace, to whom the execution of the ſayde Proclamation was ſpecially committed: and partly by the iniquitie of couetous and diſobedient perſons, who haue not had that due regard thereof which appertained, the ſayd vniuerſall attempt of ſowing Woad, hath rather increaſed then diminiſhed. Her Maieſtie therefore by aduice of her Counſell, ſtreightly willeth and commandeth, that no maner of perſon or perſons, of what degree ſoeuer the ſame be, ſhall directly or indirectly after the publication hereof, breake vp, or cauſe to be broken vp any maner of grounds, of what nature ſoeuer it bee, within this her Maieſties Realme of England, or any other her Dominions, for the vſe or purpoſe to ſowe or plant Woad, nor any ground ſhall hereaf<g ref="char:EOLhyphen"/>ter conuert or imploy to the ſowing or planting of Woad, which heretofore haue bene broken vp for other purpo<g ref="char:EOLhyphen"/>ſes, nor that any perſon doe hereafter continue for that purpoſe any ground already broken vp or plowed for ſow<g ref="char:EOLhyphen"/>ing or planting of Woad, vntill there may be a further conſideration had, how the ſame may bee tollerated with ſuch moderation and conueniencie, as may be beneficial for the Common weale, and no wayes preiudiciall to any of her louing Subiects (which her Maieſtie doth moſt ſpecially regard) vpon payne that whoſoeuer ſhall attempt any thing to the contrary hereof, the perſons ſo doing, and the workemen that ſhall be therein imployed, ſhall bee committed to the next common priſon by the next Iuſtice of Peace, and there to continue vntil certificate be made thereof to her Maieſties priuie Counſell by ſuch as ſhal commit them, ſo as order may be taken for further puniſh<g ref="char:EOLhyphen"/>ment of the perſons offending, according to the qualitie of their offence.</p>
+            <p>And further, her Maieſtie willeth and requireth all Iuſtices of Peace, to whoſe truſt and care her Highneſſe hath and doeth chiefly commit to execution of this her Proclamation, that they and euery of them doe faithfully, diligently and effectually, demeane and endeuour themſelues in the due performance thereof, according to the confidence which her Highneſſe repoſeth in them: Otherwiſe her Highneſſe hath giuen expreſſe commandement, that euery ſuch Iuſtice of Peace, ſhewing negligence or remiſneſſe therein, ſhall be called to anſwere both the ſame, and his former offence in that behalfe, and ſhall receiue ſuch condigne puniſhment for the ſame, as to the qualitie of ſuch offence and contempt ſhall appertaine.</p>
+            <closer>
+               <dateline>Giuen at her Highneſſe Mannour of Richmond <date>the eight and twentieth day of Match <hi>1600.</hi> in the two and fourtieth yeere of her Maieſties moſt gracious raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Queenes moſt excellent Maieſtie.</p>
+            <p>
+               <hi>Anno Dom.</hi> 1600.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
